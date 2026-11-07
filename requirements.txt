@@ -1,0 +1,1 @@
+# Standard-library-only project. No pip dependencies are required.
